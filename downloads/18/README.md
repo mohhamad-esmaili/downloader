@@ -7,8 +7,8 @@
 | Property | Value |
 |----------|-------|
 | **File** | `18.jpg` |
-| **URL** | https://readcomicsonline.ru/uploads/manga/moon-knight-2021/chapters/20/18.jpg |
-| **Date** | 2026-05-07 07:00:01 UTC |
+| **URL** | https://readcomicsonline.ru/uploads/manga/moon-knight-2021/chapters/21/18.jpg |
+| **Date** | 2026-05-07 07:10:06 UTC |
 | **Status** | **FAILED** |
 
 ---
