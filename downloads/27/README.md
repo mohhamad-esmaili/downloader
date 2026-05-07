@@ -1,4 +1,4 @@
-# 18.jpg - Download Failed
+# 27.jpg - Download Failed
 
 ---
 
@@ -6,9 +6,9 @@
 
 | Property | Value |
 |----------|-------|
-| **File** | `18.jpg` |
-| **URL** | https://readcomicsonline.ru/uploads/manga/moon-knight-2021/chapters/20/18.jpg |
-| **Date** | 2026-05-07 07:00:01 UTC |
+| **File** | `27.jpg` |
+| **URL** | https://readcomicsonline.ru/uploads/manga/moon-knight-2021/chapters/20/27.jpg |
+| **Date** | 2026-05-07 07:05:21 UTC |
 | **Status** | **FAILED** |
 
 ---
